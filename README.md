@@ -20,8 +20,8 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 | Name of Topic                                     | Number of Rooms | Number of Completed Rooms |
 | ------------------------------------------------- | :-------------: | :-----------------------: |
-| **[Introductory Rooms](#intro-rooms)**            |     **10**      |                           |
-| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |           **5**           |
+| **[Introductory Rooms](#intro-rooms)**            |     **9**       |           **9**           |
+| **[Linux Fundamentals](#linux-fundamentals)**     |      **5**      |                           |
 | **[Windows Fundamentals](#windows-fundamentals)** |      **3**      |                           |
 | **[Basic Rooms](#basics-rooms)**                  |      **9**      |                           |
 | **[Reconnaissance](#recon)**                      |     **10**      |                           |
@@ -52,25 +52,23 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [X] [TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [X] [TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
-- [ ] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
+- [X] [TryHackMe | Welcome](https://tryhackme.com/room/welcome)
 
-- [ ] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
+- [X] [TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
-- [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
+- [X] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [X] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [X] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [X] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
-
-- [ ] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [X] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 ## Linux Fundamentals
 
